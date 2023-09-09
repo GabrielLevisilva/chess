@@ -1,0 +1,3 @@
+
+let peao = document.createElement('div')
+const casas = document.querySelectorAll('.casa')
