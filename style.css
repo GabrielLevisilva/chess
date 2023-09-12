@@ -34,6 +34,16 @@
     width: 80%;
     height: 80%;
     border: 1px solid black;
-
+    color: black;
     cursor: pointer;
+}
+.chessboard  div .rei{
+    border-radius: 50%;
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    background-color: white;
 }

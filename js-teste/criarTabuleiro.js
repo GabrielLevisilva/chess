@@ -2,7 +2,7 @@ criarTabuleiro()
 
 function criarTabuleiro(){
     const chessboard = document.getElementById('chessboard');
-        const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+    const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
 
         for (let row = 0; row < 8; row++) {
             for (let col = 0; col < 8; col++) {
